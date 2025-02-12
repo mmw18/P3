@@ -24,3 +24,6 @@ int main() {
  * - End the function by returning a status code 0 
  * END
  */
+
+ // This assignment/code can be found on my GitHub as well:
+ //     www.github.com/mmw18/P3
